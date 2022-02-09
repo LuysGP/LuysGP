@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Horario de Clases: 
+
+| Materia/Dia       | Lunes | Martes | Miercoles | Jueves | Viernes |
+|-------------------|-------|--------|-----------|--------|---------|
+| Admón. de BD      | 1 - 2 |  1 - 2 |   1 - 2   |  1 - 2 |  1 - 2  |
+| Ing. de Sw        | 2 - 3 |  2 - 3 |   2 - 3   |  2 - 3 |  2 - 3  |
+| Lenguaje y Aut. I | 3 - 4 |  3 - 4 |   3 - 4   |  3 - 4 |  3 - 4  |
+| Lenguaje de Inte. | 4 - 5 |  4 - 5 |   4 - 5   |  4 - 5 |         |
+| Taller de SO      | 5 - 6 |  5 - 6 |   5 - 6   |  5 - 6 |         |
+| Redes de Comp.    | 6 - 7 |  6 - 7 |   6 - 7   |  6 - 7 |  6 - 7  |
