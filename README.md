@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5582470.png" width="254" height="93" alt="LuysGP" /></a>
 
 <!--
 **LuysGP/LuysGP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
