@@ -1,19 +1,16 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5582470.png" width="254" height="93" alt="LuysGP" /></a>
 
 
-**LuysGP/LuysGP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es ⚡ Garcia Pedraza  Luis Carlos ⚡ estudiante del ITT (Instituto Tecnológico de Tijuana).
 
-Here are some ideas to get you started:
+Un poco de mi:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estudio la carrera de Ingeniería en Sistemas Computacionales (ISC)
+- ⚡ Curso el semestre 6 de la carrera
+- 🌱 Actualmente estoy aprendiendo diseño web junto con las materias
+      que estoy llevando.
+- US  I'm learning English lenguage 
+- :computer:   Entusiasta de la tecnologia     
 
 Horario de Clases: 
 
