@@ -9,7 +9,7 @@ Un poco de mi:
 - ⚡ Curso el semestre 6 de la carrera
 - 🌱 Actualmente estoy aprendiendo diseño web junto con las materias
       que estoy llevando.
-- US  I'm learning English lenguage 
+- US   I'm learning English lenguage 
 - :computer:   Entusiasta de la tecnologia     
 
 Horario de Clases: 
