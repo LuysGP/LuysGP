@@ -1,7 +1,7 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5582470.png" width="254" height="93" alt="LuysGP" /></a>
 
 
-Mi nombre es ⚡ Garcia Pedraza  Luis Carlos ⚡ estudiante del ITT (Instituto Tecnológico de Tijuana).
+Mi nombre es ⚡ Luis Carlos Garcia Pedraza ⚡ estudiante del ITT (Instituto Tecnológico de Tijuana).
 
 Un poco de mi:
 
